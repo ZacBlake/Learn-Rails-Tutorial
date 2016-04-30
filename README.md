@@ -1,4 +1,12 @@
-== README
+README
+
+Learning Rails
+
+==
+
+As per the tutorial from that guy online.  
+
+==
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
